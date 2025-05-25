@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LightSpeed Contact
+title: R-SVRD Home
 ---
 
 ## About
